@@ -1,15 +1,6 @@
-# <table cellspacing="0" cellpadding="0">
-<tr>
-<td> Adrián Ruiz Sánchez-Infante </td>
-<td> <img style="float: right;" src="https://user-images.githubusercontent.com/92629855/137593313-baf335e2-762a-4a6f-9c8b-07a36ec51e0e.png"></td>
-</tr>
-
-</table>
+# Adrián Ruiz Sánchez-Infante 
 
 ## Información personal 
-
-
-
 
 Fecha de nacimiento: 13/06/1998  
 Correo electrónico: ruizadrian1306@gmail.com  
