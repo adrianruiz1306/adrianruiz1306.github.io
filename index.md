@@ -25,7 +25,7 @@ Labores de carga y descarga de mercancías.
 Gestión de stock e inventariado.
 
 ### Encargado de tienda
-#### Supermercado Alcampo (Vitoria-Gasteiz, julio 2020 - septiembre 2019)
+#### Supermercado Alcampo (Vitoria-Gasteiz, julio 2017 - septiembre 2019)
 Encargado de tienda
 Gestión del personal y asignación de tareas.  
 Organización de almacén y lineales de productos en tienda.  
