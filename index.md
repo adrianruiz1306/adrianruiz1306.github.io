@@ -33,7 +33,7 @@ Coordinación de pedidos y entregas de productos.
 Gestión de stock e inventariado.
 
 ### Monitor de baloncesto
-#### Colegio Niño Jesús (Vitoria-Gasteiz julio 2020 - septiembre 2019)
+#### Colegio Niño Jesús (Vitoria-Gasteiz, curso 2016/17)
 Entrenamiento a niños de 8 años.
 
 ## Formación
