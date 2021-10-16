@@ -11,17 +11,17 @@ Domicilio: Dámaso Alonso, 3 Bajo, 01010, Vitoria-Gasteiz
 
 ### Operario de servicios
 #### Osakidetza (Vitoria-Gasteiz, julio 2021 - septiembre 2021)
-
+Organización y limpieza de instalación sanitaria.
 
 ### Carretillero
 #### Eroski (Vitoria-Gasteiz, abril 2021 - julio 2021)
-Carga, descarga y traslado de mercancias en carretilla en polígono industrial de Júndiz
+Carga, descarga y traslado de mercancias en carretilla en polígono industrial de Júndiz.
 
 ### Encargado de tienda
 #### Supermercado Berriak (Amurrio, marzo 2020 - septiembre 2020)
 Manipulación de cargas, organización de almacén y reposición de productos en estanterías.  
 Cobro en caja y atención y asesoramiento a clientes.
-Labores de carga y descarga de mercancías.
+Labores de carga y descarga de mercancías.  
 Gestión de stock e inventariado.
 
 ### Encargado de tienda
