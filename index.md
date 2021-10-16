@@ -34,6 +34,7 @@ Gestión de stock e inventariado.
 
 ### Monitor de baloncesto
 #### Colegio Niño Jesús (Vitoria-Gasteiz julio 2020 - septiembre 2019)
+Entrenamiento a niños de 8 años.
 
 ## Formación
 ### Graduado en Educación Secundario Obligatoria (ESO) (2015-16)
