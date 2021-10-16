@@ -3,7 +3,7 @@
 ## Información personal 
 
 Fecha de nacimiento: 13/06/1998  
-Correo electrónico: ruizadrian1306@gmail.com  
+Correo electrónico: [ruizadrian1306@gmail.com](mailto:ruizadrian1306@gmail.com)  
 Teléfono de contacto: 679992107  
 Domicilio: Dámaso Alonso, 3 Bajo, 01010, Vitoria-Gasteiz
 
