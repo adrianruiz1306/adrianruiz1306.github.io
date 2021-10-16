@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+# <table cellspacing="0" cellpadding="0">
+<tr>
+<td> Adrián Ruiz Sánchez-Infante </td>
+<td> <img style="float: right;" src="https://user-images.githubusercontent.com/92629855/137593313-baf335e2-762a-4a6f-9c8b-07a36ec51e0e.png"></td>
+</tr>
 
-You can use the [editor on GitHub](https://github.com/adrianruiz1306/adriaruiz1306.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Información personal 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Fecha de nacimiento: 13/06/1998  
+Correo electrónico: ruizadrian1306@gmail.com  
+Teléfono de contacto: 679992107  
+Domicilio: Dámaso Alonso, 3 Bajo, 01003, Vitoria-Gasteiz
 
-- Bulleted
-- List
+## Experiencia laboral
 
-1. Numbered
-2. List
+### Operario de servicios
+#### Osakidetza (Vitoria-Gasteiz, julio 2021 - septiembre 2021)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Carretillero
+#### Eroski (Vitoria-Gasteiz, abril 2021 - julio 2021)
+Carga, descarga y traslado de mercancias en carretilla en polígono industrial de Júndiz
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Encargado de tienda
+#### Supermercado Berriak (Amurrio, marzo 2020 - septiembre 2020)
+Manipulación de cargas, organización de almacén y reposición de productos en estanterías.  
+Cobro en caja y atención y asesoramiento a clientes.
+Labores de carga y descarga de mercancías.
+Gestión de stock e inventariado.
 
-### Jekyll Themes
+### Encargado de tienda
+#### Supermercado Alcampo (Vitoria-Gasteiz, julio 2020 - septiembre 2019)
+Encargado de tienda
+Gestión del personal y asignación de tareas.  
+Organización de almacén y lineales de productos en tienda.  
+Coordinación de pedidos y entregas de productos.  
+Gestión de stock e inventariado.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adrianruiz1306/adriaruiz1306.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Monitor de baloncesto
+#### Colegio Niño Jesús (Vitoria-Gasteiz julio 2020 - septiembre 2019)
 
-### Support or Contact
+## Formación
+### Graduado en Educación Secundario Obligatoria (ESO) (2015-16)
+Colegio San Viator, Vitoria-Gasteiz
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Grado medio en Mantenimiento Electromecánico
+Jesús Obrero - Egibide, Vitoria-Gasteiz (1º curso finalizado)
+
+### Curso de primeros auxilios de 40 horas
+Cruz Roja de Vitoria-Gasteiz
+
+## Cursos
+### Curso de carretilla frontal (con carnet certificativo)
+Renovado en abril de 2021
+
+## Idiomas
+
+### Inglés: nivel B1
+### Euskera: nivel B1
+
+## Ofimática
+### Paquete Office 365, nivel usuario
