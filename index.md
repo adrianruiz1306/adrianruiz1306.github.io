@@ -1,5 +1,5 @@
 # Adrián Ruiz Sánchez-Infante 
-CV formato PDF (actualizado a enero de 2024) en este [link](https://github.com/adrianruiz1306/adrianruiz1306.github.io/raw/87a6df2b4c6074db472026f90d61e5bd66c8994b/cv_adrian_ruiz.pdf).
+CV formato PDF (actualizado a enero de 2024) en este [link](https://github.com/adrianruiz1306/adrianruiz1306.github.io/raw/12d4c82a5d8ec6ec4f506ac60f9dae0800be6d34/cv_adrian_ruiz.pdf).
 ## Información personal 
 
 Fecha de nacimiento: 13/06/1998  
