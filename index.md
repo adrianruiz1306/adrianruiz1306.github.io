@@ -1,5 +1,5 @@
 # Adrián Ruiz Sánchez-Infante 
-CV formato PDF (actualizado a octubre de 2021) en este [link](https://github.com/adrianruiz1306/adrianruiz1306.github.io/raw/87a6df2b4c6074db472026f90d61e5bd66c8994b/cv_adrian_ruiz.pdf).
+CV formato PDF (actualizado a enero de 2024) en este [link](https://github.com/adrianruiz1306/adrianruiz1306.github.io/raw/87a6df2b4c6074db472026f90d61e5bd66c8994b/cv_adrian_ruiz.pdf).
 ## Información personal 
 
 Fecha de nacimiento: 13/06/1998  
@@ -10,7 +10,13 @@ Domicilio: Dámaso Alonso, 3 Bajo, 01010, Vitoria-Gasteiz
 ## Experiencia laboral
 
 ### Operario de servicios
-#### Osakidetza (Vitoria-Gasteiz, julio 2021 - septiembre 2021)
+#### Osakidetza (Vitoria-Gasteiz, junio 2023 - enero 2024)
+Operario de servicios en cafetería y cocina.
+
+#### Bar La Estación (Vitoria-Gasteiz, septiembre 2022 - junio 2023)
+Camarero.
+
+#### Osakidetza (Vitoria-Gasteiz, julio 2021 - septiembre 2022)
 Organización y limpieza de instalación sanitaria.
 
 ### Carretillero
@@ -30,10 +36,6 @@ Gestión del personal y asignación de tareas.
 Organización de almacén y lineales de productos en tienda.  
 Coordinación de pedidos y entregas de productos.  
 Gestión de stock e inventariado.
-
-### Monitor de baloncesto
-#### Colegio Niño Jesús (Vitoria-Gasteiz, curso 2016/17)
-Entrenamiento a niños de 8 años.
 
 ## Formación
 ### Graduado en Educación Secundario Obligatoria (ESO) (2015-16)
