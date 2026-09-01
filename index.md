@@ -1,11 +1,11 @@
 <style>
-  .cv-header { display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
+  .cv-header { display: flex; gap: 8px; align-items: flex-start; flex-wrap: wrap; }
   .cv-photo { width: 170px; max-width: 45%; border-radius: 4px; flex-shrink: 0; }
   .cv-header-text { flex: 1 1 150px; min-width: 0; }
   .cv-header-text h1, .cv-header-text h2 { margin-top: 0; }
-  .cv-header-text h1 { font-size: 21px; line-height: 1.2; }
-  .cv-header-text h2 { font-size: 17px; padding-bottom: 4px; }
-  .cv-header-text p { margin: 4px 0; font-size: 14px; line-height: 1.3; }
+  .cv-header-text h1 { font-size: 17px; line-height: 1.15; }
+  .cv-header-text h2 { font-size: 14px; padding-bottom: 2px; }
+  .cv-header-text p { margin: 2px 0; font-size: 12px; line-height: 1.2; }
 </style>
 
 <div class="cv-header" markdown="1">
