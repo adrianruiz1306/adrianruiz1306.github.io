@@ -1,0 +1,38 @@
+name: Generar PDF del CV
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - index.md
+
+permissions:
+  contents: write
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Instalar pandoc y weasyprint
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+          pip install --break-system-packages weasyprint
+
+      - name: Generar cv_adrian_ruiz.pdf desde index.md
+        run: |
+          pandoc index.md -f gfm -o cv_adrian_ruiz.pdf \
+            --pdf-engine=weasyprint \
+            --include-in-header=.github/pdf-style.html
+
+      - name: Commitear el PDF si ha cambiado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cv_adrian_ruiz.pdf
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualiza PDF del CV automáticamente [skip ci]"
+            git push
+          fi
