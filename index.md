@@ -3,9 +3,9 @@
   .cv-photo { width: 170px; max-width: 45%; border-radius: 4px; flex-shrink: 0; }
   .cv-header-text { flex: 1 1 150px; min-width: 0; }
   .cv-header-text h1, .cv-header-text h2 { margin-top: 0; }
-  .cv-header-text h1 { font-size: 26px; }
-  .cv-header-text h2 { font-size: 22px; }
-  .cv-header-text p { margin: 8px 0; }
+  .cv-header-text h1 { font-size: 21px; line-height: 1.2; }
+  .cv-header-text h2 { font-size: 17px; padding-bottom: 4px; }
+  .cv-header-text p { margin: 4px 0; font-size: 14px; line-height: 1.3; }
 </style>
 
 <div class="cv-header" markdown="1">
