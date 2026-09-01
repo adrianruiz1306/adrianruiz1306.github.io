@@ -25,7 +25,7 @@ jobs:
         run: |
           pandoc index.md -f gfm -o cv_adrian_ruiz.pdf \
             --pdf-engine=weasyprint \
-            --metadata title="CV Adrián Ruiz"
+            --include-in-header=.github/pdf-style.html
 
       - name: Commitear el PDF si ha cambiado
         run: |
