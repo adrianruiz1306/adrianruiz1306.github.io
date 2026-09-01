@@ -1,3 +1,5 @@
+<img src="foto.png" alt="Adrián Ruiz Sánchez-Infante" width="110">
+
 # Adrián Ruiz Sánchez-Infante 
 CV también disponible en [PDF](/cv_adrian_ruiz.pdf).
 ## Información personal 
