@@ -1,6 +1,6 @@
 <style>
   .cv-header { display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
-  .cv-photo { width: 130px; max-width: 42%; border-radius: 4px; flex-shrink: 0; }
+  .cv-photo { width: 170px; max-width: 45%; border-radius: 4px; flex-shrink: 0; }
   .cv-header-text { flex: 1 1 150px; min-width: 0; }
   .cv-header-text h1, .cv-header-text h2 { margin-top: 0; }
 </style>
