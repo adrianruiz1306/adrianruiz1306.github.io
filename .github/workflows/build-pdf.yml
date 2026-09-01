@@ -21,18 +21,25 @@ jobs:
           sudo apt-get install -y pandoc
           pip install --break-system-packages weasyprint
 
+      - name: Actualiza la fecha del footer en index.md
+        run: |
+          MESES=(enero febrero marzo abril mayo junio julio agosto septiembre octubre noviembre diciembre)
+          MES=${MESES[$(($(date +%-m)-1))]}
+          ANIO=$(date +%Y)
+          sed -i -E "s/Actualizado a [a-zñáéíóúÁÉÍÓÚÑ]+ de [0-9]{4}/Actualizado a ${MES} de ${ANIO}/" index.md
+
       - name: Generar cv_adrian_ruiz.pdf desde index.md
         run: |
           pandoc index.md -f gfm -o cv_adrian_ruiz.pdf \
             --pdf-engine=weasyprint \
             --include-in-header=.github/pdf-style.html
 
-      - name: Commitear el PDF si ha cambiado
+      - name: Commitear index.md y el PDF si han cambiado
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add cv_adrian_ruiz.pdf
+          git add index.md cv_adrian_ruiz.pdf
           if ! git diff --cached --quiet; then
-            git commit -m "Actualiza PDF del CV automáticamente [skip ci]"
+            git commit -m "Actualiza fecha del footer y PDF del CV automáticamente [skip ci]"
             git push
           fi
