@@ -1,9 +1,13 @@
 <style>
-  img.cv-photo { float: left; margin: 0 16px 8px 0; border-radius: 4px; max-width: 140px; }
-  h2:not(:first-of-type) { clear: left; }
+  .cv-header { display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
+  .cv-photo { max-width: 140px; border-radius: 4px; flex-shrink: 0; }
+  .cv-header-text { flex: 1 1 240px; min-width: 0; }
+  .cv-header-text h1, .cv-header-text h2 { margin-top: 0; }
 </style>
 
+<div class="cv-header" markdown="1">
 <img class="cv-photo" src="foto.png" alt="Adrián Ruiz Sánchez-Infante">
+<div class="cv-header-text" markdown="1">
 
 # Adrián Ruiz Sánchez-Infante 
 CV también disponible en [PDF](/cv_adrian_ruiz.pdf).
@@ -13,6 +17,9 @@ Fecha de nacimiento: 13/06/1998
 Correo electrónico: [ruizadrian1306@gmail.com](mailto:ruizadrian1306@gmail.com)  
 Teléfono de contacto: 679992107  
 Domicilio: Dámaso Alonso, 3 Bajo, 01010, Vitoria-Gasteiz
+
+</div>
+</div>
 
 ## Experiencia laboral
 
