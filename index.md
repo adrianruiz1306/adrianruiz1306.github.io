@@ -1,5 +1,5 @@
 # Adrián Ruiz Sánchez-Infante 
-CV formato PDF en este [link](/cv_adrian_ruiz.pdf) (se genera automáticamente a partir de esta página).
+CV también disponible en [PDF](/cv_adrian_ruiz.pdf).
 ## Información personal 
 
 Fecha de nacimiento: 13/06/1998  
