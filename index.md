@@ -1,7 +1,7 @@
 <style>
-  .cv-header { display: flex; gap: 16px; align-items: flex-start; flex-wrap: wrap; }
-  .cv-photo { max-width: 140px; border-radius: 4px; flex-shrink: 0; }
-  .cv-header-text { flex: 1 1 240px; min-width: 0; }
+  .cv-header { display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
+  .cv-photo { width: 90px; max-width: 30%; border-radius: 4px; flex-shrink: 0; }
+  .cv-header-text { flex: 1 1 160px; min-width: 0; }
   .cv-header-text h1, .cv-header-text h2 { margin-top: 0; }
 </style>
 
