@@ -5,6 +5,7 @@
   #header_wrap .inner { padding: 15px 10px 12px 10px !important; }
   #project_title { font-size: 26px !important; margin: 0 !important; }
   #project_tagline { display: none !important; }
+  .cv-footer { text-align: right; margin-top: 20px; font-size: 0.85em; color: #666; }
 
   .cv-header { display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
   .cv-photo { width: 75px; max-width: 22%; border-radius: 4px; flex-shrink: 0; border: none; box-shadow: none; padding: 0; }
@@ -31,11 +32,9 @@ Domicilio: Dámaso Alonso, 3 Bajo, 01010, Vitoria-Gasteiz
 
 ## Experiencia laboral
 
-### Camarero
 #### Bar Larrain (Vitoria-Gasteiz, febrero 2024 - actualidad)
-Camarero.
+Camarero. Servicio de barra y restaurante.
 
-### Operario de servicios
 #### Osakidetza (Vitoria-Gasteiz, junio 2023 - enero 2024)
 Operario de servicios en cafetería y cocina.
 
@@ -53,15 +52,13 @@ Carga, descarga y traslado de mercancias en carretilla en polígono industrial d
 #### Supermercado Berriak (Amurrio, marzo 2020 - septiembre 2020)
 Manipulación de cargas, organización de almacén y reposición de productos en estanterías.  
 Cobro en caja y atención y asesoramiento a clientes.
-Labores de carga y descarga de mercancías.  
-Gestión de stock e inventariado.
+Labores de carga y descarga de mercancías: gestión de stock e inventariado.
 
 ### Encargado de tienda
 #### Supermercado Alcampo (Vitoria-Gasteiz, julio 2017 - septiembre 2019)
 Gestión del personal y asignación de tareas.  
 Organización de almacén y lineales de productos en tienda.  
-Coordinación de pedidos y entregas de productos.  
-Gestión de stock e inventariado.
+Coordinación de pedidos y entregas de productos: gestión de stock e inventariado.
 
 ## Formación
 ### Graduado en Educación Secundario Obligatoria (ESO) (2015-16)
@@ -84,3 +81,5 @@ Renovado en abril de 2021
 
 ## Ofimática
 ### Paquete Office 365, nivel usuario
+
+<p class="cv-footer">Actualizado a septiembre de 2026</p>
