@@ -32,7 +32,7 @@ Domicilio: Dámaso Alonso, 3 Bajo, 01010, Vitoria-Gasteiz
 
 ## Experiencia laboral
 
-#### Bar Larrain (Vitoria-Gasteiz, febrero 2024 - actualidad)
+#### Bar Larrain (Vitoria-Gasteiz, enero 2024 - actualidad)
 Camarero. Servicio de barra y restaurante.
 
 #### Osakidetza (Vitoria-Gasteiz, junio 2023 - enero 2024)
