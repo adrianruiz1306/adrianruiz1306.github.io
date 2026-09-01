@@ -1,4 +1,9 @@
-<img src="foto.png" alt="Adrián Ruiz Sánchez-Infante" width="110">
+<style>
+  img.cv-photo { float: left; margin: 0 16px 8px 0; border-radius: 4px; max-width: 140px; }
+  h2:not(:first-of-type) { clear: left; }
+</style>
+
+<img class="cv-photo" src="foto.png" alt="Adrián Ruiz Sánchez-Infante">
 
 # Adrián Ruiz Sánchez-Infante 
 CV también disponible en [PDF](/cv_adrian_ruiz.pdf).
