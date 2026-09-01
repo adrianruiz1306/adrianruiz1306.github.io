@@ -2,30 +2,32 @@
   h1, h2, h3, h4 { color: #1b3a57; }
   h2 { text-transform: uppercase; letter-spacing: 0.5px; background: none; border-bottom: 2px solid #1b3a57; padding-bottom: 6px; font-size: 20px; }
   a { color: #1b3a57; }
+  #header_wrap .inner { padding: 15px 10px 12px 10px !important; }
+  #project_title { font-size: 26px !important; margin: 0 !important; }
+  #project_tagline { display: none !important; }
 
-  .cv-header { display: flex; gap: 10px; align-items: flex-start; flex-wrap: wrap; }
-  .cv-photo { width: 140px; max-width: 38%; border-radius: 4px; flex-shrink: 0; }
+  .cv-header { display: flex; gap: 12px; align-items: flex-start; flex-wrap: wrap; }
+  .cv-photo { width: 75px; max-width: 22%; border-radius: 4px; flex-shrink: 0; border: none; box-shadow: none; padding: 0; }
   .cv-header-text { flex: 1 1 160px; min-width: 0; }
-  .cv-header-text h1 { margin: 0 0 4px 0; font-size: 26px; line-height: 1.15; }
-  .cv-header-text h2 { margin: 6px 0 3px 0; }
-  .cv-header-text p { margin: 2px 0; font-size: 13px; line-height: 1.15; }
+  .cv-header-text h1 { margin: 0 0 4px 0; font-size: 24px; line-height: 1.15; }
 </style>
 
-<div class="cv-header" markdown="1">
+<div class="cv-header">
 <img class="cv-photo" src="foto.png" alt="Adrián Ruiz Sánchez-Infante">
 <div class="cv-header-text" markdown="1">
 
 # Adrián Ruiz Sánchez-Infante 
 CV también disponible en [PDF](/cv_adrian_ruiz.pdf).
+
+</div>
+</div>
+
 ## Información personal 
 
 Fecha de nacimiento: 13/06/1998  
 Correo electrónico: [ruizadrian1306@gmail.com](mailto:ruizadrian1306@gmail.com)  
 Teléfono de contacto: 679992107  
 Domicilio: Dámaso Alonso, 3 Bajo, 01010, Vitoria-Gasteiz
-
-</div>
-</div>
 
 ## Experiencia laboral
 
@@ -82,4 +84,3 @@ Renovado en abril de 2021
 
 ## Ofimática
 ### Paquete Office 365, nivel usuario
-
