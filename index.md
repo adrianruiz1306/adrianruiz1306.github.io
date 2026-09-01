@@ -1,11 +1,14 @@
 <style>
-  .cv-header { display: flex; gap: 8px; align-items: flex-start; flex-wrap: wrap; }
-  .cv-photo { width: 170px; max-width: 45%; border-radius: 4px; flex-shrink: 0; }
-  .cv-header-text { flex: 1 1 150px; min-width: 0; }
-  .cv-header-text h1, .cv-header-text h2 { margin-top: 0; }
-  .cv-header-text h1 { font-size: 17px; line-height: 1.15; }
-  .cv-header-text h2 { font-size: 14px; padding-bottom: 2px; }
-  .cv-header-text p { margin: 2px 0; font-size: 12px; line-height: 1.2; }
+  h1, h2, h3, h4 { color: #1b3a57; }
+  h2 { text-transform: uppercase; letter-spacing: 0.5px; background: none; border-bottom: 2px solid #1b3a57; padding-bottom: 6px; font-size: 20px; }
+  a { color: #1b3a57; }
+
+  .cv-header { display: flex; gap: 10px; align-items: flex-start; flex-wrap: wrap; }
+  .cv-photo { width: 140px; max-width: 38%; border-radius: 4px; flex-shrink: 0; }
+  .cv-header-text { flex: 1 1 160px; min-width: 0; }
+  .cv-header-text h1 { margin: 0 0 4px 0; font-size: 26px; line-height: 1.15; }
+  .cv-header-text h2 { margin: 6px 0 3px 0; }
+  .cv-header-text p { margin: 2px 0; font-size: 13px; line-height: 1.15; }
 </style>
 
 <div class="cv-header" markdown="1">
