@@ -41,6 +41,12 @@ Operario de servicios en cafetería y cocina.
 #### Bar La Estación (Vitoria-Gasteiz, septiembre 2022 - junio 2023)
 Camarero.
 
+#### TER (dos meses)
+Puesto de torno, compaginado con el trabajo en Bar La Estación.
+
+#### Mecanizados Vitoria (dos meses)
+Especializado en fresadora, compaginado con el trabajo en Bar La Estación.
+
 #### Osakidetza (Vitoria-Gasteiz, julio 2021 - septiembre 2022)
 Organización y limpieza de instalación sanitaria.
 
